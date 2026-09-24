@@ -1,0 +1,3 @@
+LAB 6 LOGBOOK - Satish Sukhanandi - E26B07F0864
+SETUP: my working directory is ~/nst/labs~/nst/labs/lab06-os-and-filesystem
+T1 prediction: I think ls / will show atleast 6 items (bin, sbin, dev, tmp, usr, user, etc..)
